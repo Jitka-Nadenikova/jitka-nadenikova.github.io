@@ -49,5 +49,7 @@ footer {
 
 #language-switch img {
   cursor: pointer;
-  filter: invert(1); /* Invert colors for better visibility on dark backgrounds */
+  width: 20px;
+  height: 20px;
+  /* filter: invert(1); Invert colors for better visibility on dark backgrounds */
 }
