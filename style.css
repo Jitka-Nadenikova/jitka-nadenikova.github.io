@@ -1,0 +1,49 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #D50032;
+  color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+header img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+nav {
+  background-color: #FFF;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
+
+#language-switch img {
+  width: 30px;
+  height: 20px;
+  cursor: pointer;
+}
