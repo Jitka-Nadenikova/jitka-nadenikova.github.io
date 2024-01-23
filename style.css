@@ -15,8 +15,8 @@ header {
 
 header img {
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
 }
 
 nav {
@@ -49,7 +49,7 @@ footer {
 
 #language-switch img {
   cursor: pointer;
-  width: 20px;
-  height: 20px;
+  width: 22x;
+  height: 22px;
   /* filter: invert(1); Invert colors for better visibility on dark backgrounds */
 }
