@@ -1,7 +1,7 @@
 function changeLanguage(language) {
   // Define the language-specific file names
-  const swedishFileName = 'index.html';
-  const englishFileName = 'english.html';
+  const swedishFileName = './';
+  const englishFileName = './english';
 
   // Check the current file name
   const currentFileName = window.location.pathname.split('/').pop();
