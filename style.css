@@ -8,15 +8,15 @@ body {
 
 header {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   background-color: #D50032; /* #333; Dark header background */
   color: #FFF; /* Light text color */
 }
 
 header img {
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
 }
 
 nav {
@@ -48,8 +48,6 @@ footer {
 }
 
 #language-switch img {
-  width: 30px;
-  height: 20px;
   cursor: pointer;
   filter: invert(1); /* Invert colors for better visibility on dark backgrounds */
 }
